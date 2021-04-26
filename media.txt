@@ -2,7 +2,7 @@
  .container{
     padding-left:15px;
     padding-right:15px;
-     margin:auto;
+     margin:auto ;
             }
 
 @media (max-width: 767px){/*mobile*/}
